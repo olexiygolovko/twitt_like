@@ -1,23 +1,23 @@
-Cоздадим примитивное подобие публичного анонимного «Твиттера», небольшие посты с возможностью оценки.
+Let's create a primitive semblance of a public anonymous Twitter, small posts with the ability to rate.
 
-Возможности приложения:
+Application features:
 
-        Писать посты.
-        Ставить лайки.
+         Write posts.
+         Give likes.
 
-На сервере будет храниться информация о всех сообщениях.
+The server will store information about all messages.
 
-Поля:
+Fields:
 
-        текст сообщения;
-        количество лайков;
-        дата создания.
+         Message text;
+         number of likes;
+         date of creation.
 
-Наш инструментарий:
+Our tools:
 
-        Django
-        React
-        Django CORS
-        Django REST-framework
-        Axios
+         Django
+         React
+         Django CORS
+         Django REST framework
+         Axios
 
